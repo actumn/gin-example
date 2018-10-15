@@ -1,0 +1,5 @@
+{
+  "database": {
+    "meta_connection": "root:password@/sample?charset=utf8&parseTime=True&loc=Local"
+  }
+}
